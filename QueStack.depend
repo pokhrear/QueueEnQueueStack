@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1532467945 source:f:\academic\sem_004\data_c\assignment\stackqueue\testerqueue.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"StackQnque.h"
+	<time.h>
+
+1532115982 f:\academic\sem_004\data_c\assignment\stackqueue\stackqnque.h
+
